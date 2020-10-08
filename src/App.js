@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <Cars carMake="Honda" carModel="Accord"/>
         <hr/>
-        <Cars carMake="Suzuki" carModel="Hijet"/>
+        <Cars carMake="Suzuki" carModel="Cultus"/>
         <hr/>
         <Cars carMake="Toyota" carModel="Crown"/> 
       </header>
